@@ -1,0 +1,14 @@
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\bin\Debug\net8.0\RestaurantsDb.deps.json
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\bin\Debug\net8.0\RestaurantsDb.runtimeconfig.json
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\bin\Debug\net8.0\RestaurantsDb.dll
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\bin\Debug\net8.0\RestaurantsDb.pdb
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.csproj.AssemblyReference.cache
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.AssemblyInfoInputs.cache
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.AssemblyInfo.cs
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.dll
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\refint\RestaurantsDb.dll
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.pdb
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\RestaurantsDb.genruntimeconfig.cache
+C:\Users\jakob\Documents\Schule\Pos\C#\Restaurant\RestaurantsDb\obj\Debug\net8.0\ref\RestaurantsDb.dll
